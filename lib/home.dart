@@ -230,7 +230,7 @@ class _HomeState extends State<Home> {
                     )
                   : Container(
                       child: Center(
-                        child: Text("Select an Image to create a meme"),
+                        child: Text("Select an Image to edit."),
                       ),
                     ),
             ],
